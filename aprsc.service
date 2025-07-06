@@ -1,0 +1,12 @@
+[Unit]
+Description=APRSC - APRS-IS Core Server
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/aprsc -f /etc/aprsc.conf
+Restart=on-failure
+User=aprsc
+Group=aprsc
+
+[Install]
+WantedBy=multi-user.target
