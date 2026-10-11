@@ -112,4 +112,4 @@ This package and upstream `aprsc` are licensed under the [GPLv2](https://www.gnu
 
 If you find this project useful, please consider supporting it:
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9m2pju%40hamradio.my&currency_code=MYR&item_name=aprsc-9m2pju-git)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/9M2PJU)
